@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcin/CLionProjects/shortestWord/findLong.h
+
+/home/marcin/CLionProjects/shortestWord/findShort.h
+
+/home/marcin/CLionProjects/shortestWord/main.cpp
+iostream
+-
+memory
+-
+utility
+-
+findShort.h
+/home/marcin/CLionProjects/shortestWord/findShort.h
+findLong.h
+/home/marcin/CLionProjects/shortestWord/findLong.h
+

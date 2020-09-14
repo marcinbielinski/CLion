@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/arrowoperator_cherno.dir/main.cpp.o  -o arrowoperator_cherno 

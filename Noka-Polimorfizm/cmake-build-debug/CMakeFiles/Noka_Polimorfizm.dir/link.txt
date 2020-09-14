@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Noka_Polimorfizm.dir/main.cpp.o  -o Noka_Polimorfizm 

@@ -1,0 +1,3 @@
+/home/marcin/CLionProjects/STL_countainers-task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcin/CLionProjects/STL_countainers-task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcin/CLionProjects/STL_countainers-task2/cmake-build-debug/CMakeFiles/STL_countainers_task2.dir

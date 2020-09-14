@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Nokia_constuctor.dir/main.cpp.o  -o Nokia_constuctor 

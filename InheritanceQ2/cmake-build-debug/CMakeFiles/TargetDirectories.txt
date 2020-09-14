@@ -1,0 +1,3 @@
+/home/marcin/CLionProjects/InheritanceQ2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcin/CLionProjects/InheritanceQ2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcin/CLionProjects/InheritanceQ2/cmake-build-debug/CMakeFiles/InheritanceQ2.dir

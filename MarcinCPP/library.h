@@ -1,0 +1,6 @@
+#ifndef MARCINCPP_LIBRARY_H
+#define MARCINCPP_LIBRARY_H
+
+void hello();
+
+#endif //MARCINCPP_LIBRARY_H

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PUREvirtual.dir/main.cpp.o  -o PUREvirtual 

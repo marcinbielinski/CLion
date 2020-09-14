@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/multiplyByTwo.cpp.o  -o untitled1 

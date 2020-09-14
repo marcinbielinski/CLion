@@ -1,0 +1,3 @@
+/home/marcin/CLionProjects/STL-basic class template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcin/CLionProjects/STL-basic class template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcin/CLionProjects/STL-basic class template/cmake-build-debug/CMakeFiles/STL_basic_class_template.dir

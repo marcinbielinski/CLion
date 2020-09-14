@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcin/CLionProjects/Chapter4quizz#4/calculateAndPrintHeight.cpp
+constants.h
+/home/marcin/CLionProjects/Chapter4quizz#4/constants.h
+calculateAndPrintHeight.h
+/home/marcin/CLionProjects/Chapter4quizz#4/calculateAndPrintHeight.h
+iostream
+-
+
+/home/marcin/CLionProjects/Chapter4quizz#4/calculateAndPrintHeight.h
+
+/home/marcin/CLionProjects/Chapter4quizz#4/constants.h
+
+/home/marcin/CLionProjects/Chapter4quizz#4/getTowerHeight.h
+
+/home/marcin/CLionProjects/Chapter4quizz#4/main.cpp
+calculateAndPrintHeight.h
+/home/marcin/CLionProjects/Chapter4quizz#4/calculateAndPrintHeight.h
+getTowerHeight.h
+/home/marcin/CLionProjects/Chapter4quizz#4/getTowerHeight.h
+

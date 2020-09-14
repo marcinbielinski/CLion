@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/STL_basic_class_template.dir/main.cpp.o  -o STL_basic_class_template 

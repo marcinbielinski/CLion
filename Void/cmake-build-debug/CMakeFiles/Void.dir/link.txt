@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Void.dir/main.cpp.o  -o Void 

@@ -1,0 +1,10 @@
+//
+// Created by marcin on 16.08.2020.
+//
+
+#ifndef CHAPTER4QUIZZ_4_GETTOWERHEIGHT_H
+#define CHAPTER4QUIZZ_4_GETTOWERHEIGHT_H
+
+double getTowerHeight();
+
+#endif //CHAPTER4QUIZZ_4_GETTOWERHEIGHT_H

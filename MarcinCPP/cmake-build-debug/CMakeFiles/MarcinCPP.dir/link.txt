@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMarcinCPP.a  CMakeFiles/MarcinCPP.dir/library.cpp.o
+/usr/bin/ranlib libMarcinCPP.a

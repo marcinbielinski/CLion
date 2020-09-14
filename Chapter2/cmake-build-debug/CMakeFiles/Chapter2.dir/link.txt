@@ -1,0 +1,2 @@
+/usr/bin/ar qc libChapter2.a  CMakeFiles/Chapter2.dir/library.cpp.o
+/usr/bin/ranlib libChapter2.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/QuizChapter2.dir/main.cpp.o CMakeFiles/QuizChapter2.dir/io.cpp.o  -o QuizChapter2 

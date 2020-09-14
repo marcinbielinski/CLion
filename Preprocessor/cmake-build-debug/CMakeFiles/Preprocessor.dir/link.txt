@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Preprocessor.dir/main.cpp.o CMakeFiles/Preprocessor.dir/function.cpp.o  -o Preprocessor 

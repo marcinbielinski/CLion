@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AKADEMIA.dir/main.cpp.o  -o AKADEMIA 

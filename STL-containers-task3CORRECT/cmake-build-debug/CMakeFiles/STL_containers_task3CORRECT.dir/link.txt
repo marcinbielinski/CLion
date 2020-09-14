@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/STL_containers_task3CORRECT.dir/main.cpp.o  -o STL_containers_task3CORRECT 

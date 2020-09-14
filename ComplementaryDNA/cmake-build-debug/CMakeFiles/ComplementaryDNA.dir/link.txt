@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ComplementaryDNA.dir/main.cpp.o  -o ComplementaryDNA 

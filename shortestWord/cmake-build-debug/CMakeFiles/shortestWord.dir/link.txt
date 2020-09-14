@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shortestWord.dir/main.cpp.o CMakeFiles/shortestWord.dir/findShort.cpp.o CMakeFiles/shortestWord.dir/findLong.cpp.o  -o shortestWord 

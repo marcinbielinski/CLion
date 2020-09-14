@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(exceptions___throwing_from_an_init_list_of_constructor)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(exceptions___throwing_from_an_init_list_of_constructor main.cpp)

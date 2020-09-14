@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inheritanceQ1.dir/main.cpp.o  -o inheritanceQ1 

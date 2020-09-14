@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Headerfiles.dir/main.cpp.o CMakeFiles/Headerfiles.dir/add.cpp.o  -o Headerfiles 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RemoveFirstAndLast.dir/main.cpp.o  -o RemoveFirstAndLast 

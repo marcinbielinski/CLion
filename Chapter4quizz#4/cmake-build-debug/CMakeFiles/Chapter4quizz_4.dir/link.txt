@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Chapter4quizz_4.dir/main.cpp.o CMakeFiles/Chapter4quizz_4.dir/calculateAndPrintHeight.cpp.o CMakeFiles/Chapter4quizz_4.dir/getTowerHeight.cpp.o  -o Chapter4quizz_4 
